@@ -1,2 +1,2 @@
 # udpclient
-UDPClient assignment
+Sample  programs to demonstrate UDP client and server
